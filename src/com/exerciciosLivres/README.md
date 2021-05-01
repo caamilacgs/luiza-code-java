@@ -8,13 +8,13 @@ Repositório das atividades realizadas no curso Luiza Code-Java organizado pelo 
 
 ### Repositório dos arquivos feito em aula:
 
-[Atividades](https://github.com/caamilacgs/LuizaCodeJava_Atividades/tree/main/src/com/luizacode)
+[Atividades](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/atividades)
 
-[Aulas](https://github.com/caamilacgs/LuizaCodeJava_Semana1/tree/main/src/com/luizacode)
+[Aulas](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/aulas)
 
-[Exercicios](https://github.com/caamilacgs/LuizaCodeJava_Semana2/tree/main/src/com/luizacode)
+[Exercicios para Praticar](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/exerciciosLivres)
 
-[Mentorias de Sabado](https://github.com/caamilacgs/LuizaCodeJava_Semana2/tree/main/src/com/luizacode)
+[Mentorias de Sabado](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/mentoria)
   
 
 ### Stack do curso:

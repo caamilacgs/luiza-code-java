@@ -1,5 +1,7 @@
 ## #LuizaCodeJava Atividades
 
+1. [Atividades](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/atividades)
+
 [Atividade 01](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/atividades/Atividade01) Programa Academico
 
 [Atividade 02](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/atividades/Atividade02) Calculadora
@@ -13,10 +15,13 @@
 
 ### #Repositório dos arquivos feito em aula:
 
-[Aulas](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/aulas)
 
-[Exercicios para Praticar](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/exerciciosLivres)
+2. [Aulas](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/aulas)
 
-[Mentorias de Sabado](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/mentoria)
+
+3. [Exercicios para Praticar](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/exerciciosLivres)
+
+
+4. [Mentorias de Sabado](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/mentoria)
   
 ![image](https://user-images.githubusercontent.com/60848932/116348287-346e3b00-a7c4-11eb-899c-f6740102d6ae.png)

@@ -4,7 +4,7 @@
 1. [Atividades](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/atividades)
     - [Atividade 01:](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/atividades/Atividade01) Programa Academico
     - [Atividade 02:](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/atividades/Atividade02) Calculadora
-    - [Atividade 03](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/atividades/Atividade03) Conta Bancaria
+    - [Atividade 03:](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/atividades/Atividade03) Conta Bancaria
          - Versão 1: Eu fiz seguindo a intepretação que eu tive, antes de implementarmos a POO.
          - Versão 2: Eu fiz seguindo a ultima aula implementando: Herança, Abstração, Polimorfismo e Encapsulamento.
         

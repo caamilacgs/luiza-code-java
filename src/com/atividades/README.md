@@ -6,13 +6,12 @@
 
 [Atividade 03](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/atividades/Atividade03) Conta Bancaria
 
+* Tem duas versões:
+-  Versão 1: Eu fiz seguindo a intepretação que eu tive, antes de implementarmos a POO.
+-  Versão 2: Eu fiz seguindo a ultima aula implmentando: Herança, Abstração, Polimorfismo e Encapsulamento.
 
-### Tem duas versões:
-#### Versão 1 - Eu fiz seguindo a intepretação que eu tive, antes de implementarmos a POO.
-#### Versão 2 - Eu fiz seguindo a ultima aula implmentando: Herança, Abstração, Polimorfismo e Encapsulamento.
 
-
-### Repositório dos arquivos feito em aula:
+### #Repositório dos arquivos feito em aula:
 
 [Aulas](https://github.com/caamilacgs/LuizaCodeJava/tree/main/src/com/aulas)
 

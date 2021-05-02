@@ -1,4 +1,4 @@
-package com.atividades.Atividade03;
+package com.atividades.Atividade03.versao1;
 
 public class Application {
 

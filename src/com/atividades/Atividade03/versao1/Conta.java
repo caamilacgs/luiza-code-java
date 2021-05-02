@@ -1,7 +1,7 @@
 
 //Crie uma conta capaz de emitir o saldo do correntista, fazer deposito e saques
 
-package com.atividades.Atividade03;
+package com.atividades.Atividade03.versao1;
 
 import java.util.Scanner;
 
